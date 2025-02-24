@@ -1,6 +1,7 @@
 # CS-370---Current-Emerging-Trends
 
-Course work in developing an AI agent 
+Course work in developing an AI agent
+(This includes code as well as a design defense and analysis document)
 
 The following repository includes code for an AI agent which was developed with the purpose of exploring its environment and learning from scratch the most optimal path to the goal within a maze. The agent starts with no knowledge of its environment and learns incrementally. 
 I was provided with some starter code and a sample environment where my "pirate" agent would be placed and I implemented a deep Q-learning algorithm to train said agent.
